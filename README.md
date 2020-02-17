@@ -15,6 +15,7 @@
 
 ## 구현 
 ![이미지2](./images/8.20.gif)
+![map](./images/mapdesign.png)
 
 ## 구현한 기능
 애니메이션 블루프린트  
